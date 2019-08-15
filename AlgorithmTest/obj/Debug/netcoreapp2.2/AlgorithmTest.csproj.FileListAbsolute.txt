@@ -1,0 +1,11 @@
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\bin\Debug\netcoreapp2.2\AlgorithmTest.deps.json
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\bin\Debug\netcoreapp2.2\AlgorithmTest.runtimeconfig.json
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\bin\Debug\netcoreapp2.2\AlgorithmTest.runtimeconfig.dev.json
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\bin\Debug\netcoreapp2.2\AlgorithmTest.dll
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\bin\Debug\netcoreapp2.2\AlgorithmTest.pdb
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\obj\Debug\netcoreapp2.2\AlgorithmTest.csproj.CoreCompileInputs.cache
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\obj\Debug\netcoreapp2.2\AlgorithmTest.AssemblyInfoInputs.cache
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\obj\Debug\netcoreapp2.2\AlgorithmTest.AssemblyInfo.cs
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\obj\Debug\netcoreapp2.2\AlgorithmTest.dll
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\obj\Debug\netcoreapp2.2\AlgorithmTest.pdb
+C:\Users\ranjithkumar.radhakr\source\repos\AlgorithmTest\AlgorithmTest\obj\Debug\netcoreapp2.2\AlgorithmTest.csprojAssemblyReference.cache
